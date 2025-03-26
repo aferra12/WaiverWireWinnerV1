@@ -1,5 +1,5 @@
 # Waiver Wire Winner
-Automated ESPN Fantasy Baseball Assistant Manager
+V1 Automated ESPN Fantasy Baseball Assistant Manager
 
 ## Motivation
 
