@@ -1,5 +1,5 @@
 # Waiver Wire Winner
-V1 Automated ESPN Fantasy Baseball Assistant Manager
+V1 Automated ESPN Fantasy Baseball Assistant Manager -- check out V2! (https://github.com/aferra12/WaiverWireWinnerV2)
 
 ## Motivation
 
